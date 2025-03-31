@@ -4,8 +4,8 @@ Este proyecto permite gestionar las calificaciones de los estudiantes, permitien
 
 ## 📂 Estructura del Proyecto
 
-- `notas.js` → Archivo principal en JavaScript que ejecuta el sistema en Node.js.
-- `notas.py` → Archivo en Python con la misma funcionalidad.
+- `calificaciones.js` → Archivo principal en JavaScript que ejecuta el sistema en Node.js.
+- `calificaciones.py` → Archivo en Python con la misma funcionalidad.
 - `README.md` → Explicación del proyecto y cómo ejecutarlo.
 
 ---
@@ -30,7 +30,7 @@ Este proyecto permite gestionar las calificaciones de los estudiantes, permitien
 1. Asegúrate de estar en la carpeta donde guardaste `notas.js`.
 2. Ejecuta el siguiente comando en la terminal:
    ```sh
-   node notas.js
+   node calificaciones.js
    ```
 
 #### 3️⃣ Uso del Programa
@@ -49,21 +49,13 @@ Este proyecto permite gestionar las calificaciones de los estudiantes, permitien
   ```sh
   python --version
   ```
-  o en algunos sistemas:
-  ```sh
-  python3 --version
-  ```
 
 #### 2️⃣ Ejecutar el programa
 
-1. Ubícate en la carpeta donde guardaste `notas.py`.
+1. Ubícate en la carpeta donde guardaste `calificaciones.py`.
 2. Ejecuta el siguiente comando:
    ```sh
-   python notas.py
-   ```
-   o en algunos sistemas:
-   ```sh
-   python3 notas.py
+   python calificaciones.py
    ```
 
 #### 3️⃣ Uso del Programa
